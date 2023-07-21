@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "icons",
+			"path": "../../../Downloads/Wordpress/icons"
+		},
+		{
+			"name": "img",
+			"path": "../../../Downloads/Wordpress/img"
+		},
+		{
+			"name": "fonts",
+			"path": "../../../Downloads/Wordpress/fonts"
+		},
+		{
+			"name": "projectUdemy",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projectUdemy"
+	}
+}
